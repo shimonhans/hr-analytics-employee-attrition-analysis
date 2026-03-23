@@ -16,4 +16,4 @@ ORDER BY Department, attrition_rate DESC
       4	  Research & Development	false	    690	            59	            8.55
       5	  Sales	                  true	    128	            48	            37.5
       6	  Sales	                  false	    318	            44	            13.84
-*/
+*/   
