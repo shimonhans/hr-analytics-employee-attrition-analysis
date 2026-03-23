@@ -1,4 +1,4 @@
-  # clean every NULL value column and unnecessary column
+  # clean every NULL value column and unnecessary column 
 
 CREATE OR REPLACE TABLE `dataset_attrition_IBM.cleaned_attrition_data` AS
 SELECT
