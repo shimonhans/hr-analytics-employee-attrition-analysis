@@ -1,0 +1,36 @@
+  # clean every NULL value column and unnecessary column
+
+CREATE OR REPLACE TABLE `dataset_attrition_IBM.cleaned_attrition_data` AS
+SELECT
+  Age,
+  Attrition,
+  BusinessTravel,
+  Department,
+  DistanceFromHome,
+  Gender,
+  JobInvolvement,
+  JobLevel,
+  JobRole,
+  JobSatisfaction,
+  MaritalStatus,
+  MonthlyIncome,
+  NumCompaniesWorked,
+  OverTime,
+  PercentSalaryHike,
+  PerformanceRating,
+  StockOptionLevel,
+  TotalWorkingYears,
+  TrainingTimesLastYear,
+  YearsAtCompany,
+  YearsSinceLastPromotion,
+  YearsWithCurrManager,
+  Higher_Education,
+  Date_of_Hire,
+  Status_of_leaving,
+  Mode_of_work,
+  Leaves,
+  Absenteeism,
+  Work_accident,
+  Source_of_Hire,
+  Job_mode
+FROM `dataset_attrition_IBM.attrition_data`
