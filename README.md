@@ -2,14 +2,14 @@
 Data-driven analysis of employee attrition revealing 80% turnover in high-risk segments using SQL and BigQuery.
 
 
-# 📊 Employee Attrition Analysis (SQL – BigQuery)
+# Employee Attrition Analysis (SQL – BigQuery)
 
-## 📌 Overview
+## Overview
 Employee attrition is a critical issue that impacts organizational stability, productivity, and cost. This project analyzes employee data using SQL in BigQuery to identify key drivers of attrition and uncover high-risk employee segments.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze overall attrition patterns  
 - Identify departments with high turnover  
 - Determine key factors influencing employee attrition  
@@ -17,7 +17,7 @@ Employee attrition is a critical issue that impacts organizational stability, pr
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 - Total Employees: **1,470**
 - Key Features:
   - Demographics: Age, Gender, Marital Status  
@@ -29,7 +29,7 @@ Employee attrition is a critical issue that impacts organizational stability, pr
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 - Removed irrelevant columns (`string_field_32`, `Date_of_termination`)  
 - Verified no missing values in key fields  
 - Ensured consistency in categorical variables  
@@ -37,7 +37,7 @@ Employee attrition is a critical issue that impacts organizational stability, pr
 
 ---
 
-## 🔍 Analysis & Findings
+## Analysis & Findings
 
 ### 1. Overall Attrition
 - Attrition Rate: **16.12%**
@@ -91,7 +91,7 @@ Employee attrition is a critical issue that impacts organizational stability, pr
 
 ---
 
-## 🔎 Deep-Dive Analysis (Sales Department)
+## Deep-Dive Analysis (Sales Department)
 
 ### Key Drivers within Sales:
 - **New employees (0–2 years)** → **34.95%** vs 16.33% (others)  
@@ -102,17 +102,17 @@ Employee attrition is a critical issue that impacts organizational stability, pr
 
 ---
 
-## 🚨 Most Critical Segment
+## Most Critical Segment
 
 **Sales + Low Salary + Overtime + 0–2 Years**
 
 - Attrition Rate: **80%**
 
-> 🔥 **8 out of 10 employees in this group leave the company**
+> **8 out of 10 employees in this group leave the company**
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 - Attrition is concentrated in specific employee segments  
 - Sales department has the highest turnover (**20.63% vs 16.12% overall**)  
 - Overtime increases attrition from **10.44% to 30.53% (~3x higher)**  
@@ -123,17 +123,13 @@ Employee attrition is a critical issue that impacts organizational stability, pr
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 Employee attrition is driven by a **combination of factors rather than a single cause**. The most critical issue lies among **new, low-paid Sales employees working overtime**, where attrition reaches **80%**.
 
 Addressing these factors can significantly improve employee retention and organizational stability.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - SQL  
 - Google BigQuery  
-
----
-
-## 📁 Project Structure (Optional)
