@@ -120,27 +120,6 @@ Employee attrition is a critical issue that impacts organizational stability, pr
 - Low salary employees show **29.43% attrition vs 10.24% (high salary)**  
 - Combined risk factors drive attrition as high as **80%**  
 
----
-
-## 💡 Business Recommendations
-
-### 1. Reduce Overtime for New Sales Employees
-- Implement workload balancing  
-- Monitor overtime thresholds  
-
-### 2. Improve Compensation Strategy
-- Review salary structure for entry-level Sales roles  
-- Introduce performance-based incentives  
-
-### 3. Strengthen Onboarding & Retention
-- Improve training programs  
-- Set realistic job expectations  
-- Provide mentorship in first 2 years  
-
-### 4. Monitor High-Risk Segments
-- Track new hires in Sales  
-- Monitor overtime patterns  
-- Build attrition dashboards  
 
 ---
 
