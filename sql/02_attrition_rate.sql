@@ -5,4 +5,4 @@ SELECT
 FROM `dataset_attrition_IBM.cleaned_attrition_data`
 
 
-    # COMPANY ATTRITION RATE --> 16.12%
+    # COMPANY ATTRITION RATE --> 16.12%   
