@@ -122,6 +122,10 @@ Employee attrition is a critical issue that impacts organizational stability, pr
 
 
 ---
+## Data Visualization | Looker Studio Dashboard
+![HR Analytics Dashboard](Dashboard/dashboard_screenshot.jpeg)
+> Full interactive dashboard --> ["Here!"](https://lookerstudio.google.com/reporting/9850f42f-50b2-4525-b6eb-abc0736ffb2e)
+---
 
 ## Conclusion
 Employee attrition is driven by a **combination of factors rather than a single cause**. The most critical issue lies among **new, low-paid Sales employees working overtime**, where attrition reaches **80%**.
